@@ -194,6 +194,6 @@ def main():
     print("Выиграл: ", win)
     exit = input("Для выхода нажмите любую клавишу: ")
     if exit:
-        print("Good bay")
+        print("Good bay!")
 
 main()
